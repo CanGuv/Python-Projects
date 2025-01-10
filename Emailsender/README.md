@@ -2,7 +2,8 @@
 
 This project includes two components:
   1. A Python script (email_sender.py) for sending emails programmatically.
-  2.A simple HTML page (index.html) displaying a congratulatory message.
+     
+  2. A simple HTML page (index.html) displaying a congratulatory message.
 
 ## Files
 1. **email_sender.py**
