@@ -1,4 +1,4 @@
-# Email Sender and Message Display
+# Email Sender and Message Display
 
 This project includes two components:
   1. A Python script (email_sender.py) for sending emails programmatically.
