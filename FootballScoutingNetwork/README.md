@@ -50,13 +50,13 @@ pip install pandas bokeh
 
     - Execute the cells sequentially.
 
-    - The notebook will load, process, and visualize the data step by step.
+    - The notebook will load, process, and visualise the data step by step.
 
 3. Data Preparation:
 
     - The dataset is filtered to exclude irrelevant columns and cleaned for missing or inconsistent values.
 
-4. Visualization:
+4. Visualisation:
 
     - Generates interactive visualisations using bokeh. Users can customise these visualisations by modifying the relevant code sections.
 
