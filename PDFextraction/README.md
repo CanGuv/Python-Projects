@@ -83,16 +83,6 @@ Note: tkinter is typically included with Python installations.
 
         - common_terms: List of terms to query within the PDFs.
 
-## Getting Started
-1. Clone Repository
-   ```bash
-   git clone https://github.com/CanGuv/Python-Projects.git
-   cd PDFextraction
-   ```
-2. For the Python script:
-   - Modify the file as needed.
-   - Run it using:
-     ```bash
      python PDFextraction.ipynb
      ```
 
