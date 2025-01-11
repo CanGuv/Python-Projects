@@ -45,43 +45,43 @@ Note: tkinter is typically included with Python installations.
 
 1. **Setup**:
 
-  - Open the notebook in Jupyter Notebook or JupyterLab.
+      - Open the notebook in Jupyter Notebook or JupyterLab.
 
-  - Install required libraries if not already installed.
+      - Install required libraries if not already installed.
 
 2. **Configuration**:
 
-  - Set your OpenAI API key in the `api_key` variable.
+      - Set your OpenAI API key in the `api_key` variable.
 
-  - Define any common terms for querying in the `common_terms` list.
+      - Define any common terms for querying in the `common_terms` list.
 
 3. **Run the Notebook**:
 
-  - Execute cells sequentially.
+      - Execute cells sequentially.
 
-  - When prompted, select the folder containing PDF files using the GUI dialog.
+      - When prompted, select the folder containing PDF files using the GUI dialog.
 
-  - The script will process the selected PDFs and perform analysis based on the configured options.
+      - The script will process the selected PDFs and perform analysis based on the configured options.
 
 ## Key Functions
 
 1. **`get_folder_path()`**
 
-  - Description: Opens a file dialog for selecting a folder.
+      - Description: Opens a file dialog for selecting a folder.
 
-  - Returns: The file path of the selected folder.
+      - Returns: The file path of the selected folder.
 
 2. **`extract_and_query(pdf_folder, api_key, common_terms)`**
 
- - Description: Processes the PDFs in the specified folder and performs analysis using OpenAI.
+     - Description: Processes the PDFs in the specified folder and performs analysis using OpenAI.
 
- - Parameters:
+     - Parameters:
 
-    - pdf_folder: Path to the folder containing PDFs.
+        - pdf_folder: Path to the folder containing PDFs.
 
-    - api_key: Your OpenAI API key.
+        - api_key: Your OpenAI API key.
 
-    - common_terms: List of terms to query within the PDFs.
+        - common_terms: List of terms to query within the PDFs.
 
 
 
