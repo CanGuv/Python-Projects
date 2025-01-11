@@ -7,19 +7,19 @@ The PDFextraction.ipynb notebook is designed to extract data from PDF files and 
 
 1. **PDF Extraction**:
 
-  - Uses libraries like `pdfplumber` and `PyPDF2` to extract text and metadata from PDFs.
+    - Uses libraries like `pdfplumber` and `PyPDF2` to extract text and metadata from PDFs.
 
 2. **File Selection**:
 
-  - Includes a GUI-based file dialog for folder selection using `tkinter`.
+    - Includes a GUI-based file dialog for folder selection using `tkinter`.
 
 3. **OpenAI Integration**:
 
-  - Designed to interact with the OpenAI API for advanced querying and processing of extracted content.
+    - Designed to interact with the OpenAI API for advanced querying and processing of extracted content.
 
 4. **Customizable Variables**:
 
-  - API key, common terms, and folder paths can be easily configured for specific use cases.
+    - API key, common terms, and folder paths can be easily configured for specific use cases.
 
 ## Requirements:
 
